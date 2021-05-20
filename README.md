@@ -6,4 +6,5 @@ use selenium and pytest
 
 
 pytest -s -v --browser_name=chrome test_parser.py
+
 pytest -s -v --browser_name=firefox test_parser.py
